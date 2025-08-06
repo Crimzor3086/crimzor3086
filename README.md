@@ -1,5 +1,42 @@
 # 💫 About Me:
-🔭 I’m currently working on: Web development, cybersecurity, and Android development projects.<br><br>👯 I’m looking to collaborate on: Cybersecurity challenges, ethical hacking, web-based applications, and Android development.<br><br>🤝 I’m looking for help with: Advancing my skills in ethical hacking, Android development, and enhancing my web development expertise.<br><br>🌱 I’m currently learning: Cybersecurity, ethical hacking, Android development, and database management.<br><br>💬 Ask me about: Web development, cybersecurity, ethical hacking, and Android development.<br><br>⚡ Fun fact: I enjoy diving deep into both technology and security, always curious about how things work behind the scenes!
+🔭 Currently Building:
+Projects in web development, cybersecurity, and Android—always experimenting, always learning.
+
+👯 Looking to Collaborate On:
+
+Cybersecurity challenges & CTFs
+
+Ethical hacking projects
+
+Web-based applications (frontend/backend)
+
+Android tools and utilities
+
+🤝 Open to Learning With:
+Anyone passionate about ethical hacking, modern web stacks, and Android development. If you're deep into security or app design, let’s connect!
+
+🌱 Currently Exploring:
+
+Ethical hacking techniques & tools (Kali Linux, Burp Suite, Metasploit)
+
+Android app development with Java/Kotlin
+
+Full-stack web development (HTML/CSS, JavaScript, PHP, Node.js)
+
+Database management & backend security
+
+💬 Ask Me About:
+
+Web development best practices
+
+Getting started with cybersecurity
+
+Android UI/UX and app architecture
+
+Anything tech-related you’re curious about
+
+⚡ Fun Fact:
+I love digging into the inner workings of systems—whether it's breaking them (ethically) or building something secure from scratch.
 
 
 ## 🌐 Socials:
