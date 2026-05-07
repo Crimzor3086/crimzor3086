@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi, I’m **David Barasa (Crimzor3086)** — a software engineer and systems builder focused on **secure, scalable, and real-world technology**.
+Hi, I’m **David  (Crimzor3086)** — a software engineer and systems builder focused on **secure, scalable, and real-world technology**.
 
 I enjoy working at the intersection of **software engineering, cybersecurity, Android systems, and Web3**, building tools and platforms that actually ship.
 
