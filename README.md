@@ -95,18 +95,6 @@ STATUS      : Building...
 
 ---
 
-## `$ git stats --global`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crimzor3086&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff88&text_color=cccccc&icon_color=00ff88&ring_color=00ff88" alt="Crimzor GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crimzor3086&layout=compact&hide_border=true&bg_color=000000&title_color=00ff88&text_color=cccccc" alt="Crimzor top languages" />
-</p>
-
----
-
 ## `$ git log --oneline`
 
 ```text
