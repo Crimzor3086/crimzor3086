@@ -95,32 +95,6 @@ STATUS      : Building...
 
 ---
 
-## `$ ls ~/projects`
-
-```text
-projects/
-│
-├── TriSphere
-│   └── AI-powered trend → content intelligence
-│
-├── ClauseGuard AI
-│   └── AI contract analysis & risk detection
-│
-├── EnCampus
-│   └── Student success & career operating system
-│
-├── Carbon Vault
-│   └── Blockchain-based carbon infrastructure
-│
-├── Makazi
-│   └── Real-estate / rental technology
-│
-└── ChronoFyx
-    └── Blockchain infrastructure & experimentation
-```
-
----
-
 ## `$ git stats --global`
 
 <p align="center">
